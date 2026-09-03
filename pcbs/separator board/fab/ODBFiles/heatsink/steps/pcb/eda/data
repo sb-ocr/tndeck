@@ -1,0 +1,5 @@
+#
+HDR Autodesk Fusion Electronics
+UNITS=MM
+LYR solder_+_paste_+_top silkscreen_+_top solder_+_mask_+_top top bottom solder_+_mask_+_bottom silkscreen_+_bottom solder_+_paste_+_bottom through_+_hole
+#

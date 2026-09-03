@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2026-09-03T20:36:17Z",
+        "GenerationSoftware": {
+            "Application": "Fusion Electronics",
+            "Vendor": "Autodesk",
+            "Version": "9.7.0"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.0108,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "Altoids Deck _Main Board"
+        },
+        "Owner": "Salim Benbouziyane <salim@ocrism.studio>",
+        "Size": {
+            "X": 89,
+            "Y": 54
+        }
+    }
+}
